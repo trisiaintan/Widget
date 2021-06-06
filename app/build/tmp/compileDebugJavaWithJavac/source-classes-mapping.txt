@@ -1,5 +1,2 @@
-com/example/widget/MainActivity.java
- com.example.widget.MainActivity
- com.example.widget.MainActivity$1
-com/example/widget/BuildConfig.java
- com.example.widget.BuildConfig
+com/example/komponen_widget/BuildConfig.java
+ com.example.komponen_widget.BuildConfig

@@ -1,7 +1,4 @@
-#Sun Jun 06 22:08:07 PDT 2021
-base.1=/Users/apple/Downloads/widget/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
-path.1=classes.dex
-base.0=/Users/apple/Downloads/widget/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
-renamed.1=classes2.dex
+#Mon Jun 07 02:26:18 PDT 2021
+base.0=/Users/apple/Komponen_Widget/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

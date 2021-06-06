@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.widget",
+  "applicationId": "com.example.komponen_widget",
   "variantName": "debug",
   "elements": [
     {
